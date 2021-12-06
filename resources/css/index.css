@@ -22,7 +22,7 @@ header h1 {
     margin: .5em auto;
 }
 
-header a {
+a {
     margin: .5em auto;
     font-size: 16px;
     color: aquamarine;
@@ -39,5 +39,24 @@ video {
 
 .travel p {
     font-size: 21px;
+    color: grey;
+}
+
+.marketing img {
+    margin: 2em 0;
+}
+
+.marketing h1 {
+    font-weight: 400;
+    font-size: 42px;
+}
+
+footer {
+    width: 100%;
+    margin: 1.5em 0;
+}
+
+footer h3 {
+    text-align: right;
     color: grey;
 }
