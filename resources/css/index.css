@@ -2,6 +2,7 @@
     border: 0;
     padding: 0;
     text-align: center;
+    color: white;
 }
 
 html {
@@ -29,4 +30,14 @@ header a {
 
 video {
     margin: 1em 0;
+}
+
+.travel h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.travel p {
+    font-size: 21px;
+    color: grey;
 }
